@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+
+Jag är en passionerad JavaScript-utvecklarstudent med en kärlek för att skapa och bygga användarvänliga webbapplikationer. Jag är driven av att förbättra min kodningsskicklighet och håller mig uppdaterad med den senaste tekniken och utvecklingspraxis. Utöver detta har jag också en stark kommunikativ förmåga, vilket gör mig till en effektiv teamspelare och ledare. Med en vilja att lära mig och en passion för kreativ kodning är  en framtidens JavaScript-utvecklare som kommer att göra stora framsteg inom mitt område.
 
 <!--
 **Nasbensassi/Nasbensassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
